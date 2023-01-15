@@ -10,7 +10,7 @@ I have a diploma in international training, which I like to think of as my secre
 Uhm okay, tough questions indeed. What am I currently working on? Just trying to master the art of [rusting](https://doc.rust-lang.org/book/), nothing big.
 
 ### What do you have experience with? :point_down:
-Just dabbling in a few JavaScript frameworks, enjoying python, uncovering the secrets of the fabric of space & time with PHP and Laravel, and fiddling with the nuances of keeping linux servers up 24/7. I'm no expert, but I'm always willing to give it a try!
+Just dabbling in a few JavaScript frameworks, enjoying python, uncovering the secrets of the fabric of space & time with PHP and Laravel, and fiddling with the nuances of keeping linux servers up 24/7. I'm no expert, but I'm always willing to give anything a try!
 
 ![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -22,6 +22,9 @@ Just dabbling in a few JavaScript frameworks, enjoying python, uncovering the se
 ![](https://img.shields.io/badge/laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/wordpress-117ac9?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### Are you a Communist? :point_down:
+Where'd that come from!? Ah, I see you've stumbled upon my [secret repository](https://commicasa.thelonelylands.com:13333). Sorry to disappoint, but the contents of the project shall remain a mystery for now. You'll find out when it's the year of the Linux Desktop. You can't stop the revolution.
 
 ## Get in Touch
 
