@@ -2,7 +2,7 @@
 
 I may only be 20 years old, but I've already dipped my toes in the world of software engineering and web development, gaining more coding experience than a computer science degree (okay, just pulling your leg!).
 
-I have a diploma in international training, which I like to think of as my secret weapon for tackling any coding challenge that comes my way. As the founder of a startup, I've learned to think outside the box and take risks. I've also had the pleasure of turning my passion for web development into reality by creating freelance websites for clients. I'm always on the lookout for new and exciting opportunities, and I make sure to have fun while doing it.
+I have a diploma in international training, which I like to think of as my secret weapon for tackling my way through challenges socializing doesn't fix. As the founder of a startup, I've learned to think outside the box and take risks. I've also had the pleasure of turning my passion for web development into reality by creating freelance websites for clients. I'm always on the lookout for new and exciting opportunities, and I make sure to have fun while doing it.
 
 ## Self-Interview: Asking the Tough Questions 🤔
 
@@ -23,8 +23,18 @@ Just dabbling in a few JavaScript frameworks, enjoying python, uncovering the se
 ![](https://img.shields.io/badge/bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/wordpress-117ac9?style=for-the-badge&logo=wordpress&logoColor=white)
 
-### Are you a Communist? :point_down:
+### What are you long-term goals? :point_down:
+
+My long-term goal is to become the benevolent dictator of my field, where I'll be ruling with an iron fist... of knowledge. Jokes aside, I want to climb the ranks in my field and become a top-notch professional, all while keeping my sense of humour. I'll continue to learn, grow and take on new challenges, but I'll also make sure to keep things lighthearted because let's face it, laughter is the best medicine for a successful career.
+
+### What's the training thing about? :point_down:
+
+At first, I'll be honest, I had no idea. But as I delved deeper, I realized it's the secret weapon I never knew I needed. It's like mixing the perfect cocktail, but with the skills to communicate and technical knowledge. You could call it my game-changer, and I fully intend to have my go with lady luck.
+
+### Finally, are you a Communist? :point_down:
 Where'd that come from!? Ah, I see you've stumbled upon my [secret repository](https://commicasa.thelonelylands.com:13333). Sorry to disappoint, but the contents of the project shall remain a mystery for now. You'll find out when it's the year of the Linux Desktop. You can't stop the revolution.
+
+
 
 ## Get in Touch
 
