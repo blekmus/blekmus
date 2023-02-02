@@ -22,4 +22,4 @@ Where'd that come from!? Ah, I see you've stumbled upon my [secret repository](h
 
 ## Get in Touch
 
-Send me an email __dinil[the thingy]pm.me__
+Send me an email __hello[the thingy]dinil.dev__
