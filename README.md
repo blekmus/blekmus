@@ -1,4 +1,4 @@
-# Coding with a sense of humor
+# Coding for the feels
 
 Just a guy dabbling in a few JavaScript frameworks, enjoying python, RESTing with Go, uncovering the secrets of the fabric of space & time with PHP and Laravel, and fiddling with the nuances of keeping linux servers up 24/7.
 
