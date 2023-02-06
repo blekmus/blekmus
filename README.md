@@ -16,10 +16,13 @@ Just a guy dabbling in a few JavaScript frameworks, enjoying python, RESTing wit
 ![](https://img.shields.io/badge/wordpress-117ac9?style=for-the-badge&logo=wordpress&logoColor=white)
 ![](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=purple)
 
+
 ### Are you a Communist? ☭
 Where'd that come from!? Ah, I see you've stumbled upon my [secret repository](https://commicasa.thelonelylands.com:13333). Sorry to disappoint, but the contents of the project shall remain a mystery for now. You'll find everything out when it's the year of the Linux Desktop. You can't stop the revolution.
+
 
 
 ## Get in Touch
 
 Send me an email __hello[the thingy]dinil.dev__
+
