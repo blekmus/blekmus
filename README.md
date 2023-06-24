@@ -1,6 +1,6 @@
 # Coding for the feels
 
-Just a guy dabbling in a few JavaScript frameworks, enjoying python, RESTing with Go, uncovering the secrets of the fabric of space & time with Laravel, and fiddling with the nuances of keeping linux servers up 24/7.
+Just a guy dabbling in a few JavaScript frameworks, enjoying python, RESTing with Go, uncovering secrets of the fabric of space & time with Laravel, and fiddling with the nuances of keeping linux servers up 24/7.
 
 ![](https://img.shields.io/badge/python-0277bd?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
