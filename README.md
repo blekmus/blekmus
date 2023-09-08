@@ -15,10 +15,10 @@ Just a guy dabbling in a few JavaScript frameworks, enjoying python, RESTing wit
 ![](https://img.shields.io/badge/wordpress-117ac9?style=for-the-badge&logo=wordpress&logoColor=white)
 ![](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=purple)
 
+My college profile is [blekmus-v2](https://github.com/blekmus-v2)
 
 ## Are you a Communist? ☭
 Where'd that come from!? Ah, I see you've stumbled upon my [secret repository](https://commicasa.thelonelylands.com). Sorry to disappoint, but the contents of the project shall remain a mystery for now. It will reveal itself when it's the year of the Linux Desktop. You can't stop the revolution _[maniacal laughter]_.
-
 
 
 ## Get in Touch
