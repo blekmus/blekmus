@@ -18,7 +18,8 @@ Just a guy dabbling in a few JavaScript frameworks, enjoying python, RESTing wit
 My college profile is [blekmus-v2](https://github.com/blekmus-v2)
 
 ## Are you a Communist? ☭
-Where'd that come from!? Ah, I see you've stumbled upon my [secret repository](https://commicasa.thelonelylands.com). Sorry to disappoint, but the contents of the project shall remain a mystery for now. It will reveal itself when it's the year of the Linux Desktop. You can't stop the revolution _[maniacal laughter]_.
+Where'd that come from!? Ah, I see you've stumbled upon my [secret repository](https://commicasa.thelonelylands.com). Sorry to disappoint, but the contents of the project shall remain a mystery for now. It will reveal itself when it's the year of the Linux Desktop. You can't stop the revolution!<br>
+_[maniacal laughter]_
 
 
 ## Get in Touch
