@@ -1,12 +1,13 @@
 # Coding for the feels
 
-Just a guy dabbling in a few JavaScript frameworks, enjoying python, RESTing with Go, uncovering secrets of the fabric of space & time with Laravel, and fiddling with the nuances of keeping linux servers up 24/7. See things I've made [here](https://archive.dinil.dev/projects).
+Just a guy dabbling in a few JavaScript frameworks, enjoying Python, RESTing with Go, uncovering secrets of the fabric of space & time with Laravel, and fiddling with the nuances of keeping Linux servers up 24/7. See things I've made [here](https://archive.dinil.dev/projects).
 
 ![](https://img.shields.io/badge/python-0277bd?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/c++-00427E?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![](https://img.shields.io/badge/php-777bb4?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![](https://img.shields.io/badge/bash-000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![](https://img.shields.io/badge/bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
